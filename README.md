@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **y.driss@esi-sba.dz**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1luEejSchvXAaJ_kxtyeY6F11VJ20LM4XAK0FXfEkPOw/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-aw5wr6P5kr2-_ivCw_2agLw0xp-Jc5M/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
