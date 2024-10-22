@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yassine Driss</h1>
 <h3 align="center">A final year AI and Data science student</h3>
 
-- 🌱 I’m currently learning **Reinforcement learning and Generative AI with LLM**
+- 🌱 I’m currently learning **Data engineering, Cloud and MLOps**
 
 - 💬 Ask me about **Python, Machine learning algorithms and Flutter**
 
 - 📫 How to reach me **y.driss@esi-sba.dz**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-aw5wr6P5kr2-_ivCw_2agLw0xp-Jc5M/view?usp=sharing)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1-aw5wr6P5kr2-_ivCw_2agLw0xp-Jc5M/view?usp=sharing](https://drive.google.com/file/d/156m1zM0_M5rHK1AepoIr7o7Dwsfh8THt/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
